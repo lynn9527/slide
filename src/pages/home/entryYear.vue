@@ -8,7 +8,7 @@
               <p>有未来</p>
           </div>
           <div class="mainA-p2">2020年01月01日</div>
-          <div class="mainA-p3">我第一次和中软国际相遇</div>
+          <div class="mainA-p3">我第一次和xxx公司相遇</div>
           <div class="mainA-p4">从此开启了属于我们的缘分</div>
 
       </div> -->
@@ -21,7 +21,7 @@
               <p>十年相伴</p>
               <p>不忘初心</p>
           </div>
-          <div class="mainC-p2 fontW">我已经陪伴中软国际</div>
+          <div class="mainC-p2 fontW">我已经陪伴xxx公司</div>
           <div class="mainC-footer fontW">
               <p>走过了</p>
               <p>100个</p>

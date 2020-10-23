@@ -1,4 +1,5 @@
 # summary
+### 基于vue的移动端幻灯片项目，兼容安卓、苹果
 
 > A Vue.js project
 

@@ -1,0 +1,18 @@
+@import '../utils/variable';
+
+.mainC-p1 {
+    position: $absolute;
+    top: 150px;
+    left: 67px;
+    display: $flex;
+    flex-direction: $row;
+    justify-content: $flex-start;
+    align-items: $center;
+    line-height: $line-height-56;
+    text-align: $center;
+    font-weight: $font-weight-600;
+    font-size: $font-size-56;
+    color: $color-ff6600;
+
+
+}

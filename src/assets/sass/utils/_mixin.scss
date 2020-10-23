@@ -1,0 +1,24 @@
+@import './variable';
+
+/*容器顶层盒子*/
+@mixin container {
+    width: $width;
+    height: $height;
+}
+
+/**/
+@mixin flexBox($top, $left) {
+    position: $absolute;
+    top: $top;
+    left: $left;
+    display: $flex;
+    flex-direction: $row;
+    justify-content: $flex-start;
+    align-items: $center;
+    line-height: 56px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 56px;
+    color: #ff6600;
+}
+

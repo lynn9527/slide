@@ -1,0 +1,19 @@
+@import '../utils/variable';
+@import '../utils/_mixin';
+
+/*容器顶层盒子*/
+.container {
+    @include container;
+}
+
+/*第一层容器盒子*/
+.main {
+    position: $relative;
+    @include container;
+}
+
+/*第一层容器盒子的背景图*/
+@mixin background($value){
+    background: $value;
+    background-size: $background-size;
+}
